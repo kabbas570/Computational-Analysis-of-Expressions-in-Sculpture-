@@ -21,8 +21,10 @@ https://github.com/wtomin/Multitask-Emotion-Recognition-with-Incomplete-Labels?u
 Some guidlines asre here:
 The teacher-students pre-trained weights should be saved in the main folder of Multitask-CNN or Multitask-CNN-RNN.
 The two files can be downloaded from here.
+
 https://www.robots.ox.ac.uk/~albanie/models/pytorch-mcn/resnet50_ferplus_dag.pth
 https://www.robots.ox.ac.uk/~albanie/models/pytorch-mcn/resnet50_pt_mcn.py
 
 Download the student's and teachers' models' weights from here.
+
 https://hkustconnect-my.sharepoint.com/personal/ddeng_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fddeng%5Fconnect%5Fust%5Fhk%2FDocuments%2FFG2020%2DABAW
